@@ -1,4 +1,4 @@
-module github.com/pepabo/go-netapp
+module github.com/ry023/go-netapp
 
 go 1.12
 
